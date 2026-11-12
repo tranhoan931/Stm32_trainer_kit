@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.elf
+*.bin
+.vscode/
+build/
+Debug/
